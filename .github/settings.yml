@@ -1,0 +1,8 @@
+---
+#
+# Ansible managed
+#
+repository:
+  description: Install an unsupported version of php on your system.
+  homepage: https://robertdebock.nl/
+  topics: phpunsupported, application, linux, system, ansible, molecule, tox, playbook
