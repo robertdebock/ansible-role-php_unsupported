@@ -33,8 +33,6 @@ jobs:
             tag: "latest"
           - image: "ubuntu"
             tag: "focal"
-          - image: "ubuntu"
-            tag: "bionic"
     steps:
       - name: checkout
         uses: actions/checkout@v3
