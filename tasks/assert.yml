@@ -1,6 +1,6 @@
 ---
 
-- name: assert |Test if php_version is set correctly
+- name: assert | Test if php_version is set correctly
   ansible.builtin.assert:
     that:
       - php_version is defined
