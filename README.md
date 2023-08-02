@@ -4,7 +4,7 @@ Install an unsupported version of php on your system.
 
 |GitHub|GitLab|Quality|Downloads|Version|
 |------|------|-------|---------|-------|
-|[![github](https://github.com/robertdebock/ansible-role-php_unsupported/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-php_unsupported/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-php_unsupported/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-php_unsupported)|[![quality](https://img.shields.io/ansible/quality/)](https://galaxy.ansible.com/robertdebock/php_unsupported)|[![downloads](https://img.shields.io/ansible/role/d/)](https://galaxy.ansible.com/robertdebock/php_unsupported)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-php_unsupported.svg)](https://github.com/robertdebock/ansible-role-php_unsupported/releases/)|
+|[![github](https://github.com/robertdebock/ansible-role-php_unsupported/workflows/Ansible%20Molecule/badge.svg)](https://github.com/robertdebock/ansible-role-php_unsupported/actions)|[![gitlab](https://gitlab.com/robertdebock-iac/ansible-role-php_unsupported/badges/master/pipeline.svg)](https://gitlab.com/robertdebock-iac/ansible-role-php_unsupported)|[![quality](https://img.shields.io/ansible/quality/62900)](https://galaxy.ansible.com/robertdebock/php_unsupported)|[![downloads](https://img.shields.io/ansible/role/d/62900)](https://galaxy.ansible.com/robertdebock/php_unsupported)|[![Version](https://img.shields.io/github/release/robertdebock/ansible-role-php_unsupported.svg)](https://github.com/robertdebock/ansible-role-php_unsupported/releases/)|
 
 ## [Example Playbook](#example-playbook)
 
