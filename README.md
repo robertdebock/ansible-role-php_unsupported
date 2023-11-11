@@ -1,4 +1,4 @@
-# [php_unsupported](#php_unsupported)
+# Ansible role [php_unsupported](#php_unsupported)
 
 Install an unsupported version of php on your system.
 
@@ -93,7 +93,7 @@ This role has been tested on these [container images](https://hub.docker.com/u/r
 
 |container|tags|
 |---------|----|
-|[Ubuntu](https://hub.docker.com/repository/docker/robertdebock/ubuntu/general)|jammy, focal|
+|[Ubuntu](https://hub.docker.com/r/robertdebock/ubuntu)|jammy, focal|
 
 The minimum version of Ansible required is 2.12, tests have been done to:
 
