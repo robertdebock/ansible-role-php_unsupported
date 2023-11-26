@@ -1,4 +1,4 @@
-# Ansible role [php_unsupported](#php_unsupported)
+# [Ansible role php_unsupported](#php_unsupported)
 
 Install an unsupported version of php on your system.
 
