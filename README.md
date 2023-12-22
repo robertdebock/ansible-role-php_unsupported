@@ -1,5 +1,7 @@
 # [Ansible role php_unsupported](#php_unsupported)
 
+> THIS ROLE HAS BEEN ARCHIVED AS OF DEC 2023.
+
 Install an unsupported version of php on your system.
 
 |GitHub|GitLab|Downloads|Version|
